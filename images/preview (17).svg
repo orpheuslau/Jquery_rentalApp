@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Subtle-Color" transform="translate(-400.000000, -150.000000)">
+            <g id="edit" transform="translate(400.000000, 150.000000)">
+                <path d="M12.5606,16.5605 C12.2776,16.8435 11.9006,16.9995 11.4996,16.9995 L9.4996,16.9995 C8.6726,16.9995 7.9996,16.3275 7.9996,15.4995 L7.9996,13.4995 C7.9996,13.0995 8.1566,12.7225 8.4396,12.4395 L14.8636,5.8485 L0.4996,5.4995 L0.4996,24.4995 L19.4996,24.4995 L19.1436,10.1585 L12.5606,16.5605 Z" id="Fill-165" fill="#FFBC00" opacity="0.119999997"></path>
+                <polygon id="Fill-166" fill="#FFBC00" opacity="0.119999997" points="22.5 0.5 9.5 13.5 9.5 15.5 11.5 15.5 24.5 2.5"></polygon>
+                <polyline id="Stroke-167" stroke="#FFBC00" stroke-linecap="round" stroke-linejoin="round" points="19.5 10.5 19.5 24.5 0.5 24.5 0.5 5.5 14.5 5.5"></polyline>
+                <polygon id="Stroke-168" stroke="#FFBC00" stroke-linecap="round" stroke-linejoin="round" points="22.5 0.5 9.5 13.5 9.5 15.5 11.5 15.5 24.5 2.5"></polygon>
+                <path d="M22,1 L24,3" id="Stroke-169" stroke="#FFBC00" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
